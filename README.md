@@ -7,7 +7,8 @@
 - 🤔 I’m looking for help with new jobs.
 - 💬 Ask me about my dogs.
 - 📫 How to reach me: @vinibenso
-- ⚡ Fun fact:  Farmer boy 
+- ⚡ Fun fact:  Oldschool Gamer
+
 -->
 
    Graduando em Design de produto pela PUCPR, venho fazendo uma transição de carreira após alguns anos trabalhando como projetista e também no comando de projetos pessoais, me descobri no desenvolvimento de software após ajudar minha esposa na criação de um site para a loja de roupas dela, depois disso tenho me aperfeiçoado nas mais diversas linguagens de desenvolvimento de web.
